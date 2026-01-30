@@ -1,0 +1,9 @@
+# GUI uses builtin tkinter (no extra deps)
+# This file is here in case we expand (e.g., sounds or packaging)
+
+# Runtime: tkinter is built-in
+# Dev (optional): linters and typing
+black==24.8.0
+ruff==0.6.9
+mypy==1.11.2
+pytest==8.3.2
